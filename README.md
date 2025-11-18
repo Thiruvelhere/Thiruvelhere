@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiruvelhere&label=Profile%20views&color=0e75b6&style=flat" alt="thiruvelhere" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thiruvelhere" alt="thiruvelhere" /></a> </p>
 
 - 🔭 I’m currently working on [commute_connect](https://github.com/Thiruvelhere/commute_connect)
 
