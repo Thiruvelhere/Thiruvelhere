@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Thiruvel S</h1>
-<h3 align="center">Software Engineer | Web3 Builder | Problem Solver from India</h3>
+<h3 align="center">Software Engineer | AI + Systems + Problem Solver from India</h3>
 
 <p align="center">
-Building scalable products, experimenting with blockchain systems, and shipping ideas into reality.
+I build practical products across backend systems, workflow automation, and applied AI.
 </p>
 
 <p align="center">
@@ -13,28 +13,28 @@ Building scalable products, experimenting with blockchain systems, and shipping 
 
 ## 🚀 About Me
 
-- 🔭 Currently building **Zypher** — Zero-code wallet onboarding + Web3 infra toolkit  
-- 🌱 Currently learning **Advanced Blockchain Development, Smart Contracts, System Design**  
-- 💡 Interested in **Web3, Backend Systems, AI Tools, Infra Products**  
-- 🛠️ Love building products that solve real-world problems  
-- 🎯 Goal: Build startup-grade products & become elite engineer  
-- ⚡ Fun fact: I enjoy shipping faster than overthinking
+- 🔭 Currently building impactful software products  
+- 🌱 Learning **System Design, Backend Engineering, Blockchain**  
+- 💡 Interested in **AI Systems, Infra Tools, Full Stack Products**  
+- 🛠️ Love turning complex ideas into usable software  
+- 🎯 Goal: Build startup-scale technology & become elite engineer  
+- ⚡ Fun fact: I prefer shipping over talking
 
 ---
 
 ## 🧠 Featured Projects
 
-### 🔹 Zypher SDK
-Zero-code wallet onboarding solution with social login, smart accounts, gasless transactions, and EIP-1193 provider injection.
+### 🔹 FlowForge
+MERN-based workflow platform for semiconductor analog layout teams. Replaces spreadsheets and email tracking with Kanban pipelines, role-based approvals, effort estimation, live dashboards, and real-time project visibility.
 
-### 🔹 Web3 Contract Lab
-No-code smart contract + frontend dApp deployer for beginners and hackathons.
+### 🔹 Zypher — ZK Proof of Prompt
+Verifiable AI prompt authentication using zero-knowledge proofs, Circom circuits, Poseidon hashing, proof APIs, and offline LLM integration.
 
 ### 🔹 Server Management Suite
-Full-stack centralized monitoring & admin platform for Linux/Windows servers with alerts, dashboards, SSH & SNMP integrations.
+Centralized monitoring and administration platform for Linux / Windows servers with dashboards, alerts, SSH automation, backups, and infrastructure controls.
 
-### 🔹 ZK Proof of Prompt
-Zero-knowledge verification system for AI prompts using Circom + Poseidon hashing.
+### 🔹 Mumzworld CS Email Triage
+AI-powered multilingual customer support triage system that classifies email intent, urgency, generates bilingual draft replies, and escalates uncertain cases using schema-validated outputs.
 
 ---
 
@@ -49,14 +49,14 @@ Zero-knowledge verification system for AI prompts using Circom + Poseidon hashin
 ### Backend
 `Node.js` `Express.js` `REST APIs` `MongoDB` `PostgreSQL`
 
-### Blockchain
-`Ethereum` `Ethers.js` `Solidity` `Smart Contracts` `ZK Proofs`
-
-### DevOps / Tools
-`Linux` `Docker` `Git` `GitHub` `CI/CD`
-
 ### AI / ML
-`TensorFlow` `Scikit-learn` `Anomaly Detection`
+`LLMs` `TensorFlow` `Scikit-learn` `Prompt Engineering` `Automation`
+
+### Systems / DevOps
+`Linux` `Docker` `Git` `GitHub` `CI/CD` `Monitoring`
+
+### Blockchain / Crypto
+`Ethereum` `Solidity` `Ethers.js` `ZK Proofs` `Circom`
 
 ---
 
@@ -65,7 +65,7 @@ Zero-knowledge verification system for AI prompts using Circom + Poseidon hashin
 - 🧩 Solved **500+ LeetCode** problems  
 - ⚔️ Competitive Programming rating **1750+**  
 - 🏁 Finalist in multiple national-level hackathons  
-- 🎤 Led technical workshops & project sessions  
+- 🎤 Conducted technical workshops & project sessions  
 
 ---
 
@@ -84,14 +84,12 @@ Zero-knowledge verification system for AI prompts using Circom + Poseidon hashin
 
 ## 🤝 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/thiru-vel-s" target="blank">LinkedIn</a> •
-<a href="https://github.com/Thiruvelhere" target="blank">GitHub</a> •
+<p align="center">
+<a href="https://linkedin.com/in/thiru-vel-s">LinkedIn</a> •
+<a href="https://github.com/Thiruvelhere">GitHub</a> •
 <a href="mailto:thiruvel619@gmail.com">Email</a>
 </p>
 
 ---
 
-## 💬 Quote I Live By
-
-> Build silently. Let products speak.
+> Build useful things. Repeat.
